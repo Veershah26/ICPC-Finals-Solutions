@@ -4,7 +4,7 @@ This repo will contain my solutions for the Finals Problems of ACM ICPC.
 
 Check Solutions by Year:
 <ul>
-  <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/2020">2020</a></li>
+  <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/2020/">2020</a></li>
   <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/2019">2019</a></li>
   <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/2018">2018</a></li>
   <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/2017">2017</a></li>
