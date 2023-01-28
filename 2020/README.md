@@ -1,16 +1,19 @@
-The Great Cardoni, Master Prestidigitator, has a deck of 21 numbered cards which he uses in a trick as
-follows:
-            A spectator secretly selects a number between 1 and 21, inclusive, after which Cardoni
-            deals the 21 cards, face-up, row by row in order from 1 to 21, into a 3-column grid. The
-            spectator then indicates which of the three columns contains the selected card, at which
-            point the magician picks up the cards by columns, picking up the specified column second
-            (the order of collecting the other two columns is unimportant). Cards are collected face up,
-            beginning with the top card in each column and placing each succeeding card immediately
-            beneath the previously collected card. The cards are then redealt by rows into a 3-column
-            grid, starting from the top of the face-up deck. The process is repeated two more times;
-            each time, the column indicated by the spectator is the second column picked up by the
-            magician. After three such iterations, Cardoni announces, "I have penetrated to the heart of
-            your mind; your card lies at the heart of this display." And it's true—the selected card is
-            located at the "heart" of the array (row four, column two). Moreover, the selected card will
-            always remain in this stable location for any further iterations of the column indication and
-            card redealing process.
+<h3>Solutions List:</h3>
+
+<ol>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20A%20-%20Cardiology"> Problem A - Cardiology</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20B%20-%20The%20Cost%20Of%20Speed%20Limits"> Problem B - The Cost Of Speed Limits</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20C%20-%20Domes"> Problem C - Domes</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20D%20-%20Gene%20Folding"> Problem D - Gene Folding</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20E%20-%20Landscape%20Generator"> Problem E - Landscape Generator</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20F%20-%20Ley%20Lines"> Problem F - Ley Lines</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20G%20-%20Opportunity%20Cost"> Problem G - Opportunity Cost</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20H%20-%20QC%20QC"> Problem H - QC QC</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20I%20-%20Quests"> Problem I - Quests</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20J%20-%20'S%20No%20Problem"> Problem J - 'S No Problem</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20K%20-%20Space%20Walls"> Problem K - Space Walls</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20L%20-%20Sweep%20Stakes"> Problem L - Sweep Stakes</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20M%20-%20Trailing%20Digits"> Problem M - Trailing Digits</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20N%20-%20What's%20Our%20Vector%2C%20Victor"> Problem N - What's Our Vector, Victor ?</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20O%20-%20Which%20Planet%20Is%20This!"> Problem O - Which Planet Is This ?!</a></li>
+</ol>
