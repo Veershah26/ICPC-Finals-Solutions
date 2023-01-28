@@ -14,3 +14,5 @@ Check Solutions by Year:
   <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020">2020</a></li>
   <li> <a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2021">2021</a></li>
 </ul>
+
+This solutions are my attempts at these problems, that appeared on the finals of ACM ICPC, the year folder, will contain links to the solutions and their problem statement, ill try to add the explanations in the Readme file in the problem folders
