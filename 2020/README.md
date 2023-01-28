@@ -1,3 +1,5 @@
+<h3><a href = "https://icpc.global/worldfinals/problems/2020-ICPC-World-Finals/icpc2020.pdf">Problem Statements</a></h3>
+
 <h3>Solutions List:</h3>
 
 <ol>
