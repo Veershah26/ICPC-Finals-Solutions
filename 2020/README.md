@@ -3,7 +3,7 @@
 <h3>Solutions List:</h3>
 
 <ol>
-<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20A%20-%20Cardiology"> Problem A - Cardiology</a></li>
+<li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20A%20-%20Cardiology"> Problem A - Cardiology </a></li>
 <li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20B%20-%20The%20Cost%20Of%20Speed%20Limits"> Problem B - The Cost Of Speed Limits</a></li>
 <li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20C%20-%20Domes"> Problem C - Domes</a></li>
 <li><a href="https://github.com/Veershah26/ICPC-Finals-Solutions/tree/main/2020/Problem%20D%20-%20Gene%20Folding"> Problem D - Gene Folding</a></li>
